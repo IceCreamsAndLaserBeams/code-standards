@@ -1,0 +1,7 @@
+{
+    "name": "lsammarco/code-standards",
+    "description": "Code Standards",
+    "homepage": "https://github.com/lsammarco/code-standards",
+    "keywords": [ "scss", "sass", "js", "php", "psr"],
+    "license": "proprietary"
+}
